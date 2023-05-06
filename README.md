@@ -1,4 +1,4 @@
-Live Site: https://ervin-static-job-listing-master.netlify.app/
+Live Site: https://ervin-static-job-listings-master.netlify.app/
 
 # Frontend Mentor - Job listings with filtering
 
